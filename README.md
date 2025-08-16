@@ -21,7 +21,7 @@ This project provides a Python-based proxy server that allows you to connect Jan
 1.  **Clone the repository:**
     ```bash
     git clone <your-repo-url>
-    cd kh_proxy
+    cd Horde_proxy
     ```
 
 2.  **Create and Activate a Virtual Environment:**
